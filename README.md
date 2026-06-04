@@ -25,7 +25,7 @@ Calculated the following metrics across three audience segments (pre-split, post
 - **Mobile user share** — identified via XLOOKUP join across data tables (73.7% mobile)
 
 ### 2. Audience Segmentation
-Used `IF` logic and date-based filtering to split traffic into three periods:
+Used IF logic and date-based filtering to split traffic into three periods:
 - Pre-split (combined site)
 - Post-split grammy.com (music fans)
 - Post-split recordingacademy.com (music industry professionals)
