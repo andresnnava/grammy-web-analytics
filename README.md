@@ -6,12 +6,12 @@
 ---
 
 ## Overview
-Analyzed web analytics data for The Recording Academy (Grammy Awards) to evaluate the business impact of splitting `grammy.com` and `recordingacademy.com` into two separate sites. The analysis covered three distinct audience segments, calculated core engagement KPIs, and concluded with a data-driven recommendation supported by a formal hypothesis test.
+Analyzed web analytics data for The Recording Academy (Grammy Awards) to evaluate the business impact of splitting grammy.com and recordingacademy.com into two separate sites. The analysis covered three distinct audience segments, calculated core engagement KPIs, and concluded with a data-driven recommendation supported by a formal hypothesis test.
 
 ---
 
 ## Business Question
-Did separating `grammy.com` from `recordingacademy.com` improve user engagement and should the sites remain separate?
+Did separating grammy.com from recordingacademy.com improve user engagement and should the sites remain separate?
 
 ---
 
